@@ -1,0 +1,54 @@
+
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+    margin: 50px;
+    background-color: #f0f8ff;
+    color: #333;
+  }
+  
+  .tasbeeh-container {
+    border: 2px solid #007bff;
+    padding: 20px;
+    border-radius: 10px;
+    display: inline-block;
+    background-color: #e6f7ff;
+  }
+  
+  button {
+    width: 150px;
+	height: 150px;
+	border-radius: 50%;
+	border: none;
+	position: absolute;
+	top: 46%;
+	left: 45%;
+	cursor: pointer;
+    background-color: #FBB001;
+  }
+  
+  button:hover {
+    background-color:#e3b854;
+  }
+.reset {
+	width: 40px;
+	height: 40px;
+	border-radius: 50%;
+	border: none;
+	position: absolute;
+	top: 38.5%;
+	left: 54.2%;
+	cursor: pointer;
+}
+.input {
+	position: absolute;
+	top: 23%;
+	left: 43%;
+	width: 210px;
+	height: 105px;
+	font-size: 20px;
+	text-align: center;
+	border-radius: 5px;
+	border: none;
+	background-color: white;
+}
